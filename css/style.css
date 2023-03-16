@@ -51,8 +51,8 @@ button {
   width: 150px;
 }
 
-button:hover {
-}
+/* button:hover {
+} */
 
 .row {
   display: flex;
